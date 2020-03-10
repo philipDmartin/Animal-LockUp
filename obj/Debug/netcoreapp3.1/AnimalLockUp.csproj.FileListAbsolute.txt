@@ -1,0 +1,11 @@
+C:\Users\phili\workspace\csharp\exercises\AnimalLockUp\bin\Debug\netcoreapp3.1\AnimalLockUp.exe
+C:\Users\phili\workspace\csharp\exercises\AnimalLockUp\bin\Debug\netcoreapp3.1\AnimalLockUp.deps.json
+C:\Users\phili\workspace\csharp\exercises\AnimalLockUp\bin\Debug\netcoreapp3.1\AnimalLockUp.runtimeconfig.json
+C:\Users\phili\workspace\csharp\exercises\AnimalLockUp\bin\Debug\netcoreapp3.1\AnimalLockUp.runtimeconfig.dev.json
+C:\Users\phili\workspace\csharp\exercises\AnimalLockUp\bin\Debug\netcoreapp3.1\AnimalLockUp.dll
+C:\Users\phili\workspace\csharp\exercises\AnimalLockUp\bin\Debug\netcoreapp3.1\AnimalLockUp.pdb
+C:\Users\phili\workspace\csharp\exercises\AnimalLockUp\obj\Debug\netcoreapp3.1\AnimalLockUp.csprojAssemblyReference.cache
+C:\Users\phili\workspace\csharp\exercises\AnimalLockUp\obj\Debug\netcoreapp3.1\AnimalLockUp.AssemblyInfoInputs.cache
+C:\Users\phili\workspace\csharp\exercises\AnimalLockUp\obj\Debug\netcoreapp3.1\AnimalLockUp.AssemblyInfo.cs
+C:\Users\phili\workspace\csharp\exercises\AnimalLockUp\obj\Debug\netcoreapp3.1\AnimalLockUp.dll
+C:\Users\phili\workspace\csharp\exercises\AnimalLockUp\obj\Debug\netcoreapp3.1\AnimalLockUp.pdb
